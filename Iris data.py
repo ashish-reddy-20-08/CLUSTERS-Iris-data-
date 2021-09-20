@@ -4,7 +4,7 @@
 # In[46]:
 
 
-#importing the required packages
+#importing the packages
 import pandas as pd
 import matplotlib.pylab as plt 
 import numpy as np
