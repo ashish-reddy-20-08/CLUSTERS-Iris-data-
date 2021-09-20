@@ -20,7 +20,7 @@ iris1=pd.read_csv("Iris.csv")
 # In[8]:
 
 
-#viewing the data set 
+#viewing the data set iris 
 iris1
 
 
