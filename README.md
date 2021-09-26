@@ -8,6 +8,7 @@
 
 ## Example:
 
+![image](https://user-images.githubusercontent.com/63282184/134794778-2c025eca-974f-4d46-8745-ecd7ab00e83a.png)
 
 
 **In this project we will go through Iris data data set and perform k Means clustering and form clusters**
