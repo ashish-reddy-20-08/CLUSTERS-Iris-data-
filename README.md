@@ -6,4 +6,8 @@
 
 - The main objective of the K-Means algorithm is to minimize the sum of distances between the points and their respective cluster centroid.
 
+## Example:
+
+
+
 **In this project we will go through Iris data data set and perform k Means clustering and form clusters**
