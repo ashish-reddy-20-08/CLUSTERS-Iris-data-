@@ -14,3 +14,4 @@
 
 ## Advantages of k-means
 
+Relatively simple to implement.
