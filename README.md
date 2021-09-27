@@ -17,3 +17,5 @@
 Relatively simple to implement.
 
 Scales to large data sets.
+
+Guarantees convergence.
