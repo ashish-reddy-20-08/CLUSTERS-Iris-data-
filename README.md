@@ -21,3 +21,5 @@ Scales to large data sets.
 Guarantees convergence.
 
 Can warm-start the positions of centroids.
+
+Easily adapts to new examples.
