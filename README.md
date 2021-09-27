@@ -15,3 +15,5 @@
 ## Advantages of k-means
 
 Relatively simple to implement.
+
+Scales to large data sets.
