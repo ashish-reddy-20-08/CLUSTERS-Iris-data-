@@ -23,3 +23,5 @@ Guarantees convergence.
 Can warm-start the positions of centroids.
 
 Easily adapts to new examples.
+
+Generalizes to clusters of different shapes and sizes, such as elliptical cluster
