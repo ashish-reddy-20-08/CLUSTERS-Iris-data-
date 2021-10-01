@@ -27,3 +27,5 @@ Easily adapts to new examples.
 Generalizes to clusters of different shapes and sizes, such as elliptical cluster
 
 ![image](https://user-images.githubusercontent.com/63282184/135650289-0bd43172-127d-43e2-be67-d1795d0b479d.png)
+
+## How does the K-Means Algorithm Work?
