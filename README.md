@@ -39,6 +39,6 @@ Step-1: Select the number K to decide the number of clusters.
 
 Step-3: Assign each data point to their closest centroid, which will form the predefined K clusters.
 
-
+Step-4: Calculate the variance and place a new centroid of each cluster.
 
 
