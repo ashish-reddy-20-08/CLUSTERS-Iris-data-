@@ -41,4 +41,5 @@ Step-3: Assign each data point to their closest centroid, which will form the pr
 
 Step-4: Calculate the variance and place a new centroid of each cluster.
 
+Step-5: Repeat the third steps, which means reassign each datapoint to the new closest centroid of each cluster.
 
