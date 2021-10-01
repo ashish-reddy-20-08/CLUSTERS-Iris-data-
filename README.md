@@ -32,6 +32,13 @@ Generalizes to clusters of different shapes and sizes, such as elliptical cluste
 
 The working of the K-Means algorithm is explained in the below steps:
 
+
 Step-2: Select random K points or centroids. (It can be other from the input dataset).
 
 Step-1: Select the number K to decide the number of clusters.
+
+Step-3: Assign each data point to their closest centroid, which will form the predefined K clusters.
+
+
+
+
